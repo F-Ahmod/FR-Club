@@ -1,0 +1,10 @@
+.header{
+    background-color:lightgrey;
+   
+   padding-bottom: 10px;
+}
+
+.header-name{
+    color: mediumseagreen;
+    font-weight: 700;
+}
