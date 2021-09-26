@@ -1,6 +1,6 @@
 # Getting Started with Create F&R club
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [F&R Club](https://github.com/facebook/create-react-app).
 
 # header
 
